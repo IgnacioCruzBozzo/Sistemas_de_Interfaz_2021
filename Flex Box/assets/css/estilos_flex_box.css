@@ -1,0 +1,105 @@
+.Destacados {
+    background-color: lightsalmon;
+    display: flex;
+    height: 400px;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+.Destacados div {
+    border: 2px solid black;
+    width: 250x;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+}
+
+.destacados_1 {
+    background-color: lightskyblue;
+    width: 550px;
+}
+
+.destacados_2 {
+    background-color: lightskyblue;
+    width: 550px;
+}
+
+.destacados_3 {
+    background-color: lightskyblue;
+    width: 550px;
+}
+
+.Productos {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.Productos div {
+    border: 2px solid black;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+}
+
+.Producto_1 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_2 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_3 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_4 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_5 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_6 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_7 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_8 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_9 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_10 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_11 {
+    background-color: lightpink;
+    width: 550px;
+}
+
+.Producto_12 {
+    background-color: lightpink;
+    width: 550px;
+}

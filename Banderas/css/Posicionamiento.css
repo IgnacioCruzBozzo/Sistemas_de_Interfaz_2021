@@ -1,0 +1,188 @@
+.bandera {
+    width: 500px;
+    height: 200px;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.Amarillo {
+    background-color: yellow;
+    height: 150px;
+}
+
+.Azul {
+    background-color: blue;
+    height: 70px;
+}
+
+.Rojo {
+    background-color: red;
+    height: 70px;
+}
+
+.mexico {
+    width: 500px;
+    height: 200px;
+    border: none;
+    box-sizing: border-box !important;
+}
+.mexico div {
+    padding: 0px !important;
+    margin: 0px !important; 
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.verde {
+    background-color: darkgreen;
+    display: inline-block;
+    width: 163px;
+    height: 300px;
+}
+
+.blanco {
+    background-color: white;
+    display: inline-block;
+    width: 163px;
+    height: 300px;
+}
+
+.rojo {
+    background-color: red;
+    display: inline-block;
+    width: 163px;
+    height: 300px;
+}
+
+.españa {
+    width: 500px;
+    height: 200px;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.españa div {
+    padding: 0px !important;
+    margin: 0px !important; 
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.rojoes {
+    background-color: red;
+    width: 500px;
+    height: 70px;
+}
+
+.amarilloes {
+    background-color: yellow;
+    width: 500px;
+    height: 150px;
+    
+}
+
+.rojoes2 {
+    background-color: red;
+    width: 500px;
+    height: 70px;
+    
+}
+
+.japon {
+    width: 200px;
+    height: 200px;
+    border: none;
+    box-sizing: border-box !important;
+    border: 1px black solid !important; height: 305px; width: 505px;
+}
+
+.fondo_blanco {
+    background-color: white;
+    width: 500px;
+    height: 130px;
+}
+
+.punto_rojo {
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    top: -70px;
+    left: 160px;
+    width: 180px;
+    height: 180px;
+}
+
+.chile {
+    padding: 0px !important;
+    margin: 0px auto;
+}
+
+.chile div {
+    padding: 0px;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.azul_chico {
+    background-color: blue;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+.blanco_mediano {
+    background-color: whitesmoke;
+    display: inline-block; 
+    width: 346px;
+    height: 150px;
+}
+
+.rojo_grande { 
+    background-color: red;
+    width: 500px;
+    height: 150px;
+
+}
+
+.islandia {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: blue;
+}
+.linea_blanca {
+    width: 500px;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    top: 120px;
+    left: 0px;
+}
+
+.linea_blanca2 {
+    width: 60px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    top: -60px;
+    left: 110px;
+}
+
+.linea_roja {
+    width: 500px;
+    height: 40px;
+    background-color: red;
+    position: relative;
+    top: -230px;
+    left: 0px;
+}
+
+.linea_roja2 {
+    width: 40px;
+    height: 300px;
+    background-color: red;
+    position: relative;
+    top: -400px;
+    left: 120px;
+}
