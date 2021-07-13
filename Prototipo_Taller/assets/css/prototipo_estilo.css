@@ -1,0 +1,168 @@
+body {
+    background-color: #024B5A;
+   
+}
+
+.imagen {
+    background-image: url(../img/Recurso_1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 990px 960px;
+    background-position-x: 500px;
+    background-position-y: 1120px;
+
+}
+
+.titulo {
+    position: absolute;
+width: 1900px;
+height: 90px;
+left: 24px;
+top: 90px;
+
+font-family: Retro Team;
+font-style: normal;
+font-weight: normal;
+font-size: 180px;
+line-height: 110px;
+
+color: #FFF7E2;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.barra_menu {
+    display: flex;
+    position: absolute;
+width: 1920px;
+height: 78px;
+left: 0px;
+top: 250px;
+
+background: #FFF7E2;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.barra_menu div {
+    text-align: center;
+    width: 800px;
+    height: 0px;
+    margin: 5px;
+    top: 15px;
+    size: 1000px;
+   
+    
+}
+
+.inicio {
+    position: absolute;
+width: 113px;
+height: 48px;
+left: 10px;
+top: 162px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.capsulas {
+    position: absolute;
+width: 176px;
+height: 48px;
+left: 250px;
+top: 162px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.sobre_nosotros {
+    position: absolute;
+width: 319px;
+height: 48px;
+left: 600px;
+top: 162px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.contacto {
+    position: absolute;
+width: 195px;
+height: 48px;
+left: 950px;
+top: 162px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+h1 {
+    position: absolute;
+width: 1900px;
+height: 580px;
+left: 34px;
+top: 600px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 42px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+}
+
+h2 {
+    position: absolute;
+    width: 850px;
+    height: 800px;
+    left: 34px;
+    top: 1000px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 78px;
+    line-height: 70px;
+    
+    color: #FFFFFF;
+
+}
+
+
